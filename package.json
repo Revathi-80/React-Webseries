@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a React WEbseries",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Revathi-80/React-Webseries.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Revathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Revathi-80/React-Webseries/issues"
+  },
+  "homepage": "https://github.com/Revathi-80/React-Webseries#readme"
+}
